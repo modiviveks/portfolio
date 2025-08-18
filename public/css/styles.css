@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=League+Spartan:wght@400;500;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --bgdarkgray: #2d2d39;
+    --bgdarkgray:#363543;
     --bglightgray: #363543;
     --lightergray: #636073;
     --golden: #eeb639;
@@ -92,7 +92,7 @@
     margin: 0;
 }
 
-.leftcontentls .pranavrao{
+.leftcontentls .vivekmodi{
     font-size: 7rem;
     font-family: 'Bakbak One', Arial, Helvetica, sans-serif;
     padding: 0;
@@ -161,7 +161,7 @@
         padding: 2rem;
     }
 
-    .leftcontentls .pranavrao{
+    .leftcontentls .vivekmodi{
         font-size: 5rem;
     }
 
